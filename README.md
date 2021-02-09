@@ -1,1 +1,2 @@
-# BAL
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
